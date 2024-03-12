@@ -6,7 +6,7 @@ index: false
 permalink: /skills
 ---
 
-# 技巧
+# 八股文
 
 ::: info 帮你省下 10 年光阴
 

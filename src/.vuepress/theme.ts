@@ -66,6 +66,13 @@ export default hopeTheme({
   },
 
   plugins: {
+    comment: {
+      provider: "Giscus",
+      repo: "machaojin1917939763/JavaBlog",
+      repoId: "R_kgDOKFKBTA",
+      category: "Q&A",
+      categoryId: "DIC_kwDOKFKBTM4CZ27z",
+    },
     blog: true,
 
     // all features are enabled for demo, only preserve features you need here

@@ -123,7 +123,7 @@ const GetBingImgList = () => {
       LoadImage(item.Path);
     }
     mStorage.set('BingImgList', imgList);
-    InsertBtn();
+    // InsertBtn();
   });
 };
 

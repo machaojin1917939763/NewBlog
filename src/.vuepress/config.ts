@@ -13,7 +13,7 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: 'Chaojin',
+      title: 'Campus2Career',
       description: '天下难事，必作于易；天下大事，必做于细。',
     },
   },

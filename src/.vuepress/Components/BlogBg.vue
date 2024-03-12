@@ -113,8 +113,8 @@ onMounted(() => {
 [data-theme='light'] {
   .BlogBg {
     &::after {
-      // background-color: rgba($color: #eee, $alpha: 0.7);
-      background-color: rgba($color: #fff, $alpha: 0.1);
+      // background-color: rgba($color: #eee, $alpha: 1);
+      background-color: rgba($color: #ffffff, $alpha: 1);
     }
   }
 
@@ -124,7 +124,7 @@ onMounted(() => {
     }
 
     .vp-page {
-      background-color: rgba($color: #f8f8f8, $alpha: 0.7);
+      background-color: rgba($color: #f8f8f8, $alpha: 1);
       backdrop-filter: saturate(150%) blur(0.75rem);
     }
 
@@ -138,7 +138,7 @@ onMounted(() => {
 [data-theme='dark'] {
   .BlogBg {
     &::after {
-      background-color: rgba(29, 32, 37, 0.7);
+      background-color: rgba(29, 32, 37, 1);
     }
   }
 
@@ -148,7 +148,7 @@ onMounted(() => {
     }
 
     .vp-page {
-      background-color: rgba($color: #0d1117, $alpha: 0.7);
+      background-color: rgba($color: #0d1117, $alpha: 1);
       backdrop-filter: saturate(150%) blur(0.75rem);
     }
 

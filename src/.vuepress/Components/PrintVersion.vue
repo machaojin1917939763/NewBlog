@@ -3,13 +3,7 @@ import { onMounted } from 'vue';
 
 import AppPackage from '../../../package.json';
 
-const textConsole = `   
-███╗   ███╗ ██████╗ ███████╗
-████╗ ████║██╔═══██╗╚════██║
-██╔████╔██║██║   ██║    ██╔╝
-██║╚██╔╝██║██║   ██║   ██╔╝ 
-██║ ╚═╝ ██║╚██████╔╝   ██║  
-╚═╝     ╚═╝ ╚═════╝    ╚═╝`;
+const textConsole = ``;
 
 const PrintlnInfo = () => {
   const PackageData: any = AppPackage;

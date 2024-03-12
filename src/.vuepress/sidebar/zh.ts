@@ -102,77 +102,13 @@ export const zhSidebar = sidebar({
       children: 'structure',
     },
   ],
-  '/favorite/': [
-    {
-      text: '影视',
-      icon: 'movie',
-      prefix: 'movies/',
-      link: '/favorite/movies/',
-      children: 'structure',
-    },
-    {
-      text: '音乐',
-      icon: 'music',
-      prefix: 'music/',
-      children: 'structure',
-      link: '/favorite/music/',
-    },
-    {
-      text: '相册',
-      icon: 'xiangce',
-      prefix: 'photos/',
-      children: 'structure',
-      link: '/favorite/photos/',
-    },
-    {
-      text: '链接',
-      icon: 'link',
-      prefix: 'links/',
-      children: 'structure',
-      link: '/favorite/links/',
-    },
-  ],
   // 整体路由划分
   '/': [
     '',
     '/leetcode/',
     '/interview/',
     {
-      text: '博文',
-      icon: 'note',
-      prefix: 'posts/',
-      link: '/posts/',
-      children: 'structure',
-    },
-    {
-      text: '收藏',
-      icon: 'favoritea',
-      link: '/favorite/',
-      children: [
-        {
-          text: '影视',
-          icon: 'movie',
-          link: '/favorite/movies/',
-        },
-        {
-          text: '音乐',
-          icon: 'music',
-          link: '/favorite/music/',
-        },
-        {
-          text: '相册',
-          icon: 'xiangce',
-          link: '/favorite/photos/',
-        },
-        {
-          text: '链接',
-          icon: 'link',
-          link: '/favorite/links/',
-        },
-      ],
-    },
-    {
-      text: '技巧',
+      text: '八股文',
       icon: 'zhiliangjishu',
       prefix: 'skills/',
       link: '/skills/',
@@ -208,18 +144,7 @@ export const zhSidebar = sidebar({
       icon: 'coding',
       prefix: 'coder/',
       link: '/coder/',
-      children: [
-        {
-          text: 'Web前端',
-          icon: 'HTML',
-          link: '/coder/frontend/',
-        },
-        {
-          text: 'Golang',
-          icon: 'goicon',
-          link: '/coder/golang/',
-        },
-      ],
+      children: [],
     },
     {
       text: '关于',
@@ -229,4 +154,5 @@ export const zhSidebar = sidebar({
       children: 'structure',
     },
   ],
+  
 });
