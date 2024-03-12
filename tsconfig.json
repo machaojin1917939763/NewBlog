@@ -1,0 +1,10 @@
+{
+  "include": ["src/.vuepress/**/*"],
+  "exclude": ["node_modules", "dist", "draft"],
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "allowJs": true
+  }
+}
