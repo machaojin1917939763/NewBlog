@@ -4,11 +4,6 @@ export const zhSidebar = sidebar({
   // 子路径
   '/about/': [
     {
-      text: '返回博文',
-      icon: 'sort',
-      link: '/posts/',
-    },
-    {
       text: '关于',
       icon: 'info',
       prefix: '',
@@ -18,11 +13,6 @@ export const zhSidebar = sidebar({
   ],
   '/tools/': [
     {
-      text: '返回博文',
-      icon: 'sort',
-      link: '/posts/',
-    },
-    {
       text: '工具',
       icon: 'gongju',
       prefix: '',
@@ -31,11 +21,6 @@ export const zhSidebar = sidebar({
     },
   ],
   '/linux/': [
-    {
-      text: '返回博文',
-      icon: 'sort',
-      link: '/posts/',
-    },
     {
       text: 'Linux',
       icon: 'linux',
@@ -60,11 +45,6 @@ export const zhSidebar = sidebar({
   ],
   '/leetcode/': [
     {
-      text: '返回博文',
-      icon: 'sort',
-      link: '/posts/',
-    },
-    {
       text: 'LeetCode',
       icon: 'leetcode',
       prefix: '',
@@ -73,11 +53,6 @@ export const zhSidebar = sidebar({
     },
   ],
   '/coder/': [
-    {
-      text: '返回博文',
-      icon: 'sort',
-      link: '/posts/',
-    },
     {
       text: 'Coder',
       icon: 'coding',
@@ -102,11 +77,6 @@ export const zhSidebar = sidebar({
   ],
   '/skills/': [
     {
-      text: '返回博文',
-      icon: 'sort',
-      link: '/posts/',
-    },
-    {
       text: '技巧',
       icon: 'zhiliangjishu',
       prefix: '',
@@ -115,11 +85,6 @@ export const zhSidebar = sidebar({
     },
   ],
   '/interview/':[
-    {
-      text: '返回博文',
-      icon: 'sort',
-      link: '/posts/',
-    },
     {
       text: '面试题',
       icon: 'zhiliangjishu',
@@ -130,11 +95,6 @@ export const zhSidebar = sidebar({
   ],
   '/items/':[
     {
-      text: '返回博文',
-      icon: 'sort',
-      link: '/posts/',
-    },
-    {
       text: '项目收集',
       icon: 'zhiliangjishu',
       prefix: '',
@@ -143,11 +103,6 @@ export const zhSidebar = sidebar({
     },
   ],
   '/favorite/': [
-    {
-      text: '返回博文',
-      icon: 'sort',
-      link: '/posts/',
-    },
     {
       text: '影视',
       icon: 'movie',
