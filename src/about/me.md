@@ -1,5 +1,6 @@
 ---
 icon: selfinfo
+article: false
 order: 3
 ---
 

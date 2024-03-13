@@ -1,6 +1,8 @@
 ---
 icon: liuyan
-order: 2
+index: false
+order: 100
+article: false
 ---
 
 # 留言板

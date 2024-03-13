@@ -74,6 +74,7 @@ export default hopeTheme({
       categoryId: "DIC_kwDOKFKBTM4CZ27z",
     },
     blog: true,
+   
 
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
