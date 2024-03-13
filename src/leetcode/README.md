@@ -24,8 +24,8 @@ timeline: false
 
 <VPCard
   title="分发糖果"
-  desc="苦逼的我给小孩分糖果"
+  desc="来人，喂小孩吃糖！"
   logo="https://message-stack.oss-cn-beijing.aliyuncs.com/images/b35558552f674caf852512153d21c7dc.png%7Etplv-0es2k971ck-image.webp"
-  link="分发糖果.html"
+  link="leetcode/分发糖果.html"
   background="rgba(259, 330, 150, 0.5)"
 />

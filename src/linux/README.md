@@ -20,13 +20,13 @@ timeline: false
   title="Debian"
   desc="说实话，名字有点像Dabian            "
   logo="https://message-stack.oss-cn-beijing.aliyuncs.com/images/b35558552f674caf852512153d21c7dc.png%7Etplv-0es2k971ck-image.webp"
-  link="./Debian/"
+  link="./Debian/准备工作.html"
   background="rgba(259, 330, 150, 0.5)"
 />
 <VPCard
   title="Setting"
   desc="Linux还是CenteOs好用，原因是不会其他 "
   logo="https://message-stack.oss-cn-beijing.aliyuncs.com/images/b35558552f674caf852512153d21c7dc.png%7Etplv-0es2k971ck-image.webp"
-  link="./Settings/"
+  link="./Settings/curl证书问题.html"
   background="rgba(259, 330, 150, 0.5)"
 />
